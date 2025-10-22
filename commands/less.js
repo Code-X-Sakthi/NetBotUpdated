@@ -1,0 +1,23 @@
+/*CMD
+  command: less
+  help: 
+  need_reply: false
+  auto_retry_time: 
+  folder: 
+
+  <<ANSWER
+
+  ANSWER
+
+  <<KEYBOARD
+
+  KEYBOARD
+  aliases: 
+  group: 
+CMD*/
+
+if (user.telegramid == 5517793030){
+Bot.runCommand("less1");
+}else{
+Bot.sendMessage("*You're not the admin*")
+}
