@@ -17,7 +17,7 @@
 CMD*/
 
 let Guard = Libs.GuardLib;
-let channels = ["@Film_Nest", "@i_primeroom_06", "@kyixo"];
+let channels = ["@Cobra_David_Mahaan_Dhilli_Saamy", "@Vikram_Kalaigan_Guna_Indian"];
 for (var i = 0; i < channels.length; i++) {
    User.setProperty("status", user, "string")
 if ((user == "member") | (user == "administrator") | (user == "creator")) {
