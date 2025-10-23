@@ -24,6 +24,6 @@ if ((user == "member") | (user == "administrator") | (user == "creator")) {
 }
 
 if (user == "left") {
-  Bot.sendMessage("*Also Join @i_primeroom_06*")
+  Bot.sendMessage("*Also Join @Cobra_David_Mahaan_Dhilli_Saamy*")
   Bot.runCommand("/start")
 }
