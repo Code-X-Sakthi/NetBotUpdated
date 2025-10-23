@@ -16,7 +16,7 @@
   group: 
 CMD*/
 
-let channel = "@i_primeroom_06";
+let channel = "@Cobra_David_Mahaan_Dhilli_Saamy";
 let id = user.telegramid
 Api.getChatMember({ 
 chat_id : channel,
