@@ -49,7 +49,7 @@ if (!content) {
   if (res.success != true) {
     var button = [
       [
-        { title: "Join Channel", url: "@Vikram_Kalaigan_Guna_Indian" },
+        { title: "Join Channel", url: "t.me/Vikram_Kalaigan_Guna_Indian" },
         { title: "Joined", command: "* " + user.telegramid }
       ]
     ]
@@ -108,7 +108,7 @@ if (!content) {
   if (res.success != true) {
     var button = [
       [
-        { title: "Join Channel", url: "@Cobra_David_Mahaan_Dhilli_Saamy" },
+        { title: "Join Channel", url: "t.me/Cobra_David_Mahaan_Dhilli_Saamy" },
         { title: "Joined", command: "* " + user.telegramid }
       ]
     ]
