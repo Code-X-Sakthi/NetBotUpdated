@@ -34,7 +34,7 @@ if (!content) {
       message_id: message_id
     })
   }
-  var channels = ["@Vikram_Kalaigan_Guna_Indian","@I_primeroom_06"] //replace your channel username
+  var channels = ["@Vikram_Kalaigan_Guna_Indian","@Vikram_Kalaigan_Guna_Indian"] //replace your channel username
   HTTP.post({
     url: "https://projectoid.site/api/Telegram/MC/index.php",
     body: {
@@ -49,7 +49,7 @@ if (!content) {
   if (res.success != true) {
     var button = [
       [
-        { title: "Join Channel", url: "https://t.me/MuskFlixx" },
+        { title: "Join Channel", url: "@Vikram_Kalaigan_Guna_Indian" },
         { title: "Joined", command: "* " + user.telegramid }
       ]
     ]
@@ -108,7 +108,7 @@ if (!content) {
   if (res.success != true) {
     var button = [
       [
-        { title: "Join Channel", url: "https://t.me/rest516" },
+        { title: "Join Channel", url: "@Cobra_David_Mahaan_Dhilli_Saamy" },
         { title: "Joined", command: "* " + user.telegramid }
       ]
     ]
